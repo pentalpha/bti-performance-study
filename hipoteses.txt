@@ -1,4 +1,16 @@
 Proposta 1: Procurar correlações entre o desempenho em FMC I e o desempenho em outras matérias. Alunos de RPMTI tem melhor desempenho em FMC I? E os que tiveram bom desempenho em PTP/ITP?
+Explicando melhor o que quero com a proposta 1:
+F1: Criar função que, a partir de um conjunto de alunos, determina quais as disciplinas em que eles tem melhor desempenho.
+F2: Criar função que, a partir de um conjunto de alunos, determina quais as disciplinas em que eles tem pior desempenho.
+
+Criar função que divide os alunos do BTI que pagaram FMCI em 2 conjuntos disjuntos: alunos que se deram bem em FMC I (A) e alunos que se deram mal em FMC I (B)
+
+I - Aplicar F1 e F2 em todos os alunos.
+II - Aplicar F1 e F2 em A.
+II - Aplicar F1 e F2 em B.
+
+Há diferenças entre os resultados de F1 nos diferentes conjuntos de alunos? E com F2?
+
 Proposta 2: Alunos que moram mais longe tem menos desempenho?
 Proposta 3: Alunos que trancaram o curso tem um desempenho diferente no curso?
 Proposta 4: Qual o periodo mediano de trancamento do curso?
