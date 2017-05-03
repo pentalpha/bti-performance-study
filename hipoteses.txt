@@ -2,3 +2,4 @@ Proposta 1: Procurar correlações entre o desempenho em FMC I e o desempenho em
 Proposta 2: Alunos que moram mais longe tem menos desempenho?
 Proposta 3: Alunos que trancaram o curso tem um desempenho diferente no curso?
 Proposta 4: Qual o periodo mediano de trancamento do curso?
+Proposta 5: Analisar se as notas de RPMTI refletem nas disciplinas de matemática do segundo semestre.
