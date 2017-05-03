@@ -1,0 +1,4 @@
+Proposta 1: Procurar correlações entre o desempenho em FMC I e o desempenho em outras matérias. Alunos de RPMTI tem melhor desempenho em FMC I? E os que tiveram bom desempenho em PTP/ITP?
+Proposta 2: Alunos que moram mais longe tem menos desempenho?
+Proposta 3: Alunos que trancaram o curso tem um desempenho diferente no curso?
+Proposta 4: Qual o periodo mediano de trancamento do curso?
