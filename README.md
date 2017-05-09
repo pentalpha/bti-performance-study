@@ -11,7 +11,7 @@ Second part consists in a set of analysis starting from three differents hyphote
 - [HTML](result/notebook-2.html)
 
 ## [H2] Clustering based on academic indexes looking for relation between MC, percentage of approval and enem grade, also plotting clusterings in maps
-- [Jupyter Notebook](src/notebook-3..ipynb)
+- [Jupyter Notebook](src/notebook-3.ipynb)
 
 ## [H3] Look for relation between students grades and distance from IMD (where students have classes)
 
