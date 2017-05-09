@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Novo documento 1">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="DiamondSstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DiamondSstart"
+       style="overflow:visible">
+      <path
+         id="path4352"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.2) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Scissors"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Scissors"
+       style="overflow:visible">
+      <path
+         id="schere"
+         d="M 9.0898857,-3.6061018 C 8.1198849,-4.7769976 6.3697607,-4.7358294 5.0623558,-4.2327734 L -3.1500488,-1.1548705 C -5.5383421,-2.4615840 -7.8983361,-2.0874077 -7.8983361,-2.7236578 C -7.8983361,-3.2209742 -7.4416699,-3.1119800 -7.5100293,-4.4068519 C -7.5756648,-5.6501286 -8.8736064,-6.5699315 -10.100428,-6.4884954 C -11.327699,-6.4958500 -12.599867,-5.5553341 -12.610769,-4.2584343 C -12.702194,-2.9520479 -11.603560,-1.7387447 -10.304005,-1.6532027 C -8.7816644,-1.4265411 -6.0857470,-2.3487593 -4.8210600,-0.082342643 C -5.7633447,1.6559151 -7.4350844,1.6607341 -8.9465707,1.5737277 C -10.201445,1.5014928 -11.708664,1.8611256 -12.307219,3.0945882 C -12.885586,4.2766744 -12.318421,5.9591904 -10.990470,6.3210002 C -9.6502788,6.8128279 -7.8098011,6.1912892 -7.4910978,4.6502760 C -7.2454393,3.4624530 -8.0864637,2.9043186 -7.7636052,2.4731223 C -7.5199917,2.1477623 -5.9728246,2.3362771 -3.2164999,1.0982979 L 5.6763468,4.2330688 C 6.8000164,4.5467672 8.1730685,4.5362646 9.1684433,3.4313614 L -0.051640930,-0.053722219 L 9.0898857,-3.6061018 z M -9.2179159,-5.5066058 C -7.9233569,-4.7838060 -8.0290767,-2.8230356 -9.3743431,-2.4433169 C -10.590861,-2.0196559 -12.145370,-3.2022863 -11.757521,-4.5207817 C -11.530373,-5.6026336 -10.104134,-6.0014137 -9.2179159,-5.5066058 z M -9.1616516,2.5107591 C -7.8108215,3.0096239 -8.0402087,5.2951947 -9.4138723,5.6023681 C -10.324932,5.9187072 -11.627422,5.4635705 -11.719569,4.3902287 C -11.897178,3.0851737 -10.363484,1.9060805 -9.1616516,2.5107591 z "
+         style="fill:#000000;" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleInL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyTriangleInL"
+       style="overflow:visible">
+      <path
+         id="path4409"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(-0.8) translate(-6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotM"
+       style="overflow:visible">
+      <path
+         id="path4322"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path4285"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="SemiCircleOut"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="SemiCircleOut"
+       style="overflow:visible">
+      <path
+         id="path4439"
+         d="M -2.5,-0.80913858 C -2.5,1.9508614 -4.7400000,4.1908614 -7.5,4.1908614 L -7.5,-5.8091386 C -4.7400000,-5.8091386 -2.5,-3.5691386 -2.5,-0.80913858 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.6) translate(7.125493,0.763446)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4400"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotL"
+       style="overflow:visible">
+      <path
+         id="path4319"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4261"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       id="filter4184">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.74376"
+         id="feGaussianBlur4186" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4188">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.74376"
+         id="feGaussianBlur4190" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4248"
+       x="-0.078664304"
+       width="1.1573286"
+       y="-0.30196944"
+       height="1.6039389">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9700191"
+         id="feGaussianBlur4250" />
+    </filter>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotM-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4322-4"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4285-0"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.67306467"
+     inkscape:cx="409.34689"
+     inkscape:cy="597.68752"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="rect7182"
+       width="622.52557"
+       height="588.35358"
+       x="115.88783"
+       y="193.6037"
+       ry="7.3102846"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-6-3"
+       width="25"
+       height="25"
+       x="405.61212"
+       y="492.46057"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.98661691,0.1630554,-0.1630554,0.98661691,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-0-3"
+       width="25"
+       height="25"
+       x="464.0054"
+       y="321.76389"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.94776826,0.31895974,-0.31895974,0.94776826,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-0-2"
+       width="25"
+       height="25"
+       x="438.33884"
+       y="350.75021"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.94776826,0.31895974,-0.31895974,0.94776826,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-3-6"
+       width="25"
+       height="25"
+       x="470.7019"
+       y="362.78955"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.94776826,0.31895974,-0.31895974,0.94776826,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-56-1"
+       width="25"
+       height="25"
+       x="311.61899"
+       y="524.58362"
+       ry="5.5558391"
+       rx="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-0-9"
+       width="25"
+       height="25"
+       x="496.55893"
+       y="331.15698"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.94776826,0.31895974,-0.31895974,0.94776826,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883"
+       width="25"
+       height="25"
+       x="318.70312"
+       y="491.72754"
+       ry="5.5558391"
+       rx="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-6"
+       width="25"
+       height="25"
+       x="425.93799"
+       y="496.88242"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.98661692,0.1630554,-0.1630554,0.98661692,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-7"
+       width="25"
+       height="25"
+       x="84.418365"
+       y="628.7652"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.93584949,-0.35239995,0.35239995,0.93584949,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-5"
+       width="25"
+       height="25"
+       x="155.42981"
+       y="582.19373"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.96687763,-0.25524038,0.25524038,0.96687763,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-3"
+       width="25"
+       height="25"
+       x="491.4736"
+       y="363.89911"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.94776826,0.31895974,-0.31895974,0.94776826,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-56"
+       width="25"
+       height="25"
+       x="330.95184"
+       y="532.26056"
+       ry="5.5558391"
+       rx="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-2"
+       width="25"
+       height="25"
+       x="334.4874"
+       y="447.91278"
+       ry="5.5558391"
+       rx="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-9"
+       width="25"
+       height="25"
+       x="379.94427"
+       y="471.65137"
+       ry="5.5558391"
+       rx="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-1"
+       width="25"
+       height="25"
+       x="72.356949"
+       y="541.35815"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.93164091,-0.36338026,0.36338026,0.93164091,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-27"
+       width="25"
+       height="25"
+       x="305.69806"
+       y="463.06509"
+       ry="5.5558391"
+       rx="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-0"
+       width="25"
+       height="25"
+       x="486.28619"
+       y="337.40051"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.94776826,0.31895974,-0.31895974,0.94776826,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-93"
+       width="25"
+       height="25"
+       x="161.24828"
+       y="550.20447"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.97180349,-0.23579225,0.23579225,0.97180349,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-60"
+       width="25"
+       height="25"
+       x="378.04483"
+       y="431.20886"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.99949735,0.0317025,-0.0317025,0.99949735,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-62"
+       width="25"
+       height="25"
+       x="392.91946"
+       y="332.58221"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.93064107,0.36593333,-0.36593333,0.93064107,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-61"
+       width="25"
+       height="25"
+       x="242.10178"
+       y="559.18671"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.95211809,-0.30573051,0.30573051,0.95211809,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-8"
+       width="25"
+       height="25"
+       x="278.42392"
+       y="442.86203"
+       ry="5.5558391"
+       rx="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-6-7"
+       width="25"
+       height="25"
+       x="604.33636"
+       y="291.15671"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.81562005,0.57858787,-0.57858787,0.81562005,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-6-9"
+       width="25"
+       height="25"
+       x="432.37173"
+       y="560.81256"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.98661691,0.1630554,-0.1630554,0.98661691,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-6-2"
+       width="25"
+       height="25"
+       x="43.810577"
+       y="719.72235"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.92831852,-0.37178586,0.37178586,0.92831852,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-6-0"
+       width="25"
+       height="25"
+       x="443.12936"
+       y="616.39191"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.98661691,0.1630554,-0.1630554,0.98661691,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-6-23"
+       width="25"
+       height="25"
+       x="85.637253"
+       y="762.7666"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.95745398,-0.28858599,0.28858599,0.95745398,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-60-7"
+       width="25"
+       height="25"
+       x="338.3064"
+       y="276.29739"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.96666345,0.25605035,-0.25605035,0.96666345,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-2-5"
+       width="25"
+       height="25"
+       x="306.61185"
+       y="359.93317"
+       ry="5.5558391"
+       rx="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-60-9"
+       width="25"
+       height="25"
+       x="360.0939"
+       y="378.11685"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.99949735,0.0317025,-0.0317025,0.99949735,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-61-2"
+       width="25"
+       height="25"
+       x="255.5799"
+       y="468.98859"
+       ry="5.5558391"
+       rx="0"
+       transform="matrix(0.95211809,-0.30573051,0.30573051,0.95211809,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-8-2"
+       width="25"
+       height="25"
+       x="257.11438"
+       y="397.8139"
+       ry="5.5558391"
+       rx="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-2-8"
+       width="25"
+       height="25"
+       x="304.18283"
+       y="405.48639"
+       ry="5.5558391"
+       rx="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-2-9"
+       width="25"
+       height="25"
+       x="399.13715"
+       y="409.52701"
+       ry="5.5558391"
+       rx="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84154926;fill:#f03434;fill-opacity:1;stroke:#f67333;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3883-2-7"
+       width="25"
+       height="25"
+       x="214.27924"
+       y="413.5676"
+       ry="5.5558391"
+       rx="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.84999999999999998;fill:none;stroke:#6464ff;stroke-width:5.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4184);fill-opacity:1"
+       d="m 182.33253,464.95848 c 0,0 111.62186,22.22336 116.16754,80.30713 4.54569,58.08377 19.69798,52.02285 19.69798,52.02285 l 0,0 0.50507,0 0,0 1.01016,0"
+       id="path2989"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:0.84999999999999998;fill:none;stroke:#6464ff;stroke-width:5.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4188);fill-opacity:1"
+       d="m 481.33768,464.86813 c 0,0 -111.62186,22.22336 -116.16754,80.30713 -4.54569,58.08377 -19.69798,52.02285 -19.69798,52.02285 l 0,0 -0.50507,0 0,0 -1.01016,0"
+       id="path2989-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.84999999999999998;fill:#6464ff;fill-opacity:1;stroke:none;filter:url(#filter4248)"
+       id="rect3009"
+       width="60.104084"
+       height="15.657366"
+       x="302.03561"
+       y="589.20721"
+       ry="5.5558391"
+       transform="matrix(1,0,0,1.3157841,0,-191.00662)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotM);marker-end:url(#Arrow2Mend);fill-opacity:1"
+       d="m 507.17935,349.68125 0,387.89858"
+       id="path4252"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="522.2381"
+       y="362.97821"
+       id="text6040"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6042"
+         x="522.2381"
+         y="362.97821"
+         style="font-size:24px">Many students</tspan><tspan
+         sodipodi:role="line"
+         x="522.2381"
+         y="392.97821"
+         id="tspan6044"
+         style="font-size:24px">enrolling on the </tspan><tspan
+         sodipodi:role="line"
+         x="522.2381"
+         y="422.97821"
+         id="tspan6046"
+         style="font-size:24px">subject</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="526.58545"
+       y="690.97711"
+       id="text6040-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="526.58545"
+         y="690.97711"
+         id="tspan6046-7"
+         style="font-size:24px">Few students</tspan><tspan
+         sodipodi:role="line"
+         x="526.58545"
+         y="720.97711"
+         style="font-size:24px"
+         id="tspan6094">are approved</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:195.44923401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="452.51352"
+       y="-142.94934"
+       id="text7134"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,0.60398462,-1.6556713,0,0,0)"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan7136"
+         x="452.51352"
+         y="-142.94934"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Serif;-inkscape-font-specification:Serif">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="342.94449"
+       y="237.08316"
+       id="text6040-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/pentalpha/bottleneck.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="342.94449"
+         y="237.08316"
+         style="font-size:18px;text-align:center;text-anchor:middle"
+         id="tspan7172">As time passes, more students are trapped</tspan><tspan
+         sodipodi:role="line"
+         x="345.80972"
+         y="259.58316"
+         style="font-size:18px;text-align:center;text-anchor:middle"
+         id="tspan7178"> on the bottleneck, increasing the demand </tspan><tspan
+         sodipodi:role="line"
+         x="342.94449"
+         y="282.08316"
+         style="font-size:18px;text-align:center;text-anchor:middle"
+         id="tspan7180">for more classes in the subject</tspan></text>
+  </g>
+</svg>
