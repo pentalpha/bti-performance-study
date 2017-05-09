@@ -11,6 +11,7 @@ Second part consists in a set of analysis starting from three differents hyphote
 - [HTML](result/notebook-2.html)
 
 ## [H2] Clustering based on academic indexes looking for relation between MC, percentage of approval and enem grade, also plotting clusterings in maps
+- [Jupyter Notebook](src/notebook-3..ipynb)
 
 ## [H3] Look for relation between students grades and distance from IMD (where students have classes)
 
@@ -18,7 +19,6 @@ This project uses pandas, bokeh, geocoder and numpy in jupyter notebook.
 
 The notebooks are in src folder: 
 - [AD] rai's notebook
-- [H2] ana's notebook
 
 ## Some of the plots generated:
 
