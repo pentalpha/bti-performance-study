@@ -2,7 +2,7 @@
 
 Data set used: grades of BTI students in UFRN (avaliable in data folder).
 
-First part consist in analysis of data, using statistics to find problems related with low grades.
+First part consist in analysis of data [AD], using statistics to find problems related with low grades.
 
 Second part consists in a set of analysis starting from three differents hyphotesis:
 - [H1] Based on alarming low grades in a specific subject, see if there is difference between students that are good in this subject and who aren't
@@ -12,6 +12,7 @@ Second part consists in a set of analysis starting from three differents hyphote
 This project uses pandas, bokeh, geocoder, numpy in jupyter notebook.
 
 The notebooks are in src folder: 
+- [AD] rai's notebook
 - [H1] pita's notebook
 - [H2] ana's notebook
-- [H3] ???
+
