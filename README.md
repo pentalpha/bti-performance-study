@@ -5,7 +5,7 @@ Data set used: grades of BTI students in UFRN from 2014 to 2016 (avaliable in da
 This project uses pandas, bokeh, geocoder and numpy in jupyter notebook.
 
 First part consist in the analysis of data [AD], using statistics to find problems related with low performance.
-- [Jupyter Notebook](src/rai's%20notebook.ipynb)
+- [Jupyter Notebook](src/notebook-1.ipynb)
 
 Second part consists in a set of analysis starting from three differents hyphotesis:
 
@@ -18,7 +18,7 @@ Second part consists in a set of analysis starting from three differents hyphote
 - [HTML](result/notebook-3.html)
 
 ## [H3] Look for relation between students grades from IMD (where students have classes)
-- [Jupyter Notebook](src/notebook-1.ipynb)
+- [Jupyter Notebook]
 
 ## Some of the plots generated:
 
