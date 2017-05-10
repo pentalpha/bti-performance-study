@@ -17,8 +17,8 @@ Second part consists in a set of analysis starting from three differents hyphote
 - [Jupyter Notebook](src/notebook-3.ipynb)
 - [HTML](result/notebook-3.html)
 
-## [H3] Look for relation between students grades and distance from IMD (where students have classes)
-- [Jupyter Notebook]
+## [H3] Look for relation between students grades from IMD (where students have classes)
+- [Jupyter Notebook](src/notebook-1.ipynb)
 
 ## Some of the plots generated:
 
