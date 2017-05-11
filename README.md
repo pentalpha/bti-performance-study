@@ -7,20 +7,21 @@ This project uses Pandas, Bokeh, Geocoder, Numpy and Matplotlib in Jupyter Noteb
 First part:
 ## [AD] Analysis of data, using statistics to find problems related with low performance.
 - [Jupyter Notebook](src/notebook-1.ipynb)
+- [WEB](https://pentalpha.github.io/bti-performance-study/result/notebook-1.html)
 
 Second part consists in a set of analysis starting from three differents hyphotesis:
 
 ## [H1] Based on alarming low grades in subject 5, is there a difference between students that are good in this subject and who aren't? Is low performance in subject 5 related to course abandonment? Are these low grades prejudicing the course in any way?
 - [Jupyther Notebook](src/notebook-2.ipynb)
-- [HTML](result/notebook-2.html)
+- [WEB](https://pentalpha.github.io/bti-performance-study/result/notebook-2.html)
 
 ## [H2] Are ENEM's scores related to the grades in BTI? Using clustering based on academic indexes looking for relation between MC, percentage of approval and enem grade, also plotting clusterings in maps
 - [Jupyter Notebook](src/notebook-3.ipynb)
-- [HTML](result/notebook-3.html)
+- [WEB](https://pentalpha.github.io/bti-performance-study/result/notebook-3.html)
 
 ## [H3] Is there a correlation between students grades and where they are from? 
 - [Jupyter Notebook](src/notebook-4.ipynb)
-- [HTML](result/notebook-4.html)
+- [WEB](https://pentalpha.github.io/bti-performance-study/result/notebook-4.html)
 
 ## Some of the plots generated:
 
